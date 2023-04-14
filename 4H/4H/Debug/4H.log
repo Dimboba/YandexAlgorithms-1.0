@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4H\4H\Source.cpp(22,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4H\4H\Source.cpp(30,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4H\4H\Source.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+  4H.vcxproj -> C:\Users\lazar\Desktop\JustCode\YandexContest1\4H\Debug\4H.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4B\4B\Source.cpp(15,8): warning C4101: ch: неиспользованная локальная переменная
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4B\4B\Source.cpp(14,7): warning C4101: n: неиспользованная локальная переменная
+  4B.vcxproj -> C:\Users\lazar\Desktop\JustCode\YandexContest1\4B\Debug\4B.exe

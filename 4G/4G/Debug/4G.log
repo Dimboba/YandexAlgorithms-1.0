@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4G\4G\Source.cpp(42,27): warning C4244: *=: преобразование "double" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4G\4G\Source.cpp(97,10): warning C4101: k: неиспользованная локальная переменная
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4G\4G\Source.cpp(97,13): warning C4101: nw: неиспользованная локальная переменная
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4G\4G\Source.cpp(98,8): warning C4101: ch: неиспользованная локальная переменная
+C:\Users\lazar\Desktop\JustCode\YandexContest1\4G\4G\Source.cpp(97,7): warning C4101: n: неиспользованная локальная переменная
+  4G.vcxproj -> C:\Users\lazar\Desktop\JustCode\YandexContest1\4G\Debug\4G.exe

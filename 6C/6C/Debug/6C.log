@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\YandexContest1\6C\6C\Source.cpp(46,20): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\YandexContest1\6C\6C\Source.cpp(42,16): warning C4101: k: неиспользованная локальная переменная
+C:\Users\lazar\Desktop\JustCode\YandexContest1\6C\6C\Source.cpp(42,13): warning C4101: n: неиспользованная локальная переменная
+  6C.vcxproj -> C:\Users\lazar\Desktop\JustCode\YandexContest1\6C\Debug\6C.exe

@@ -1,0 +1,5 @@
+﻿  BinaryTree.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\lazar\Desktop\JustCode\YandexContest1\Tree\Tree\BinaryTree.h(54): warning C4715: BinaryTree<int>::find: значение возвращается не при всех путях выполнения
+  Tree.vcxproj -> C:\Users\lazar\Desktop\JustCode\YandexContest1\Tree\Debug\Tree.exe

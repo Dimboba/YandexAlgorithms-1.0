@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\YandexContest1\7D\7D\Source.cpp(43,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lazar\Desktop\JustCode\YandexContest1\7D\7D\Source.cpp(64,21): warning C4018: <: несоответствие типов со знаком и без знака
+  7D.vcxproj -> C:\Users\lazar\Desktop\JustCode\YandexContest1\7D\Debug\7D.exe

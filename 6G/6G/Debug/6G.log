@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\YandexContest1\6G\6G\Source.cpp(104,29): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\YandexContest1\6G\6G\Source.cpp(112,20): warning C4244: аргумент: преобразование "__int64" в "size_t", возможна потеря данных
+  6G.vcxproj -> C:\Users\lazar\Desktop\JustCode\YandexContest1\6G\Debug\6G.exe

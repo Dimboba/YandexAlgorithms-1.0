@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\YandexContest1\3F\3F\Source.cpp(17,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lazar\Desktop\JustCode\YandexContest1\3F\3F\Source.cpp(23,21): warning C4018: <: несоответствие типов со знаком и без знака
+  3F.vcxproj -> C:\Users\lazar\Desktop\JustCode\YandexContest1\3F\Debug\3F.exe
